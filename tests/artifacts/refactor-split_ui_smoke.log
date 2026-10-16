@@ -1,0 +1,80 @@
+[INFO   ] [Logger      ] Record log in C:\Users\Garrett\.kivy\logs\kivy_26-10-15_51.txt
+[INFO   ] [deps        ] Successfully imported "kivy_deps.angle" 0.4.0
+[INFO   ] [deps        ] Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] [deps        ] Successfully imported "kivy_deps.sdl2" 0.8.0
+[INFO   ] [Kivy        ] v2.3.1
+[INFO   ] [Kivy        ] Installed at "C:\Users\Garrett\Documents\Travel-app\.venv-kivy\lib\site-packages\kivy\__init__.py"
+[INFO   ] [Python      ] v3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+[INFO   ] [Python      ] Interpreter at "C:\Users\Garrett\Documents\Travel-app\.venv-kivy\Scripts\python.exe"
+[INFO   ] [Logger      ] Purge log fired. Processing...
+[INFO   ] [Logger      ] Purge finished!
+[INFO   ] [Factory     ] 195 symbols loaded
+[INFO   ] [Image       ] Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[INFO   ] [Window      ] Provider: sdl2
+[INFO   ] [GL          ] Using the "OpenGL" graphics system
+[INFO   ] [GL          ] GLEW initialization succeeded
+[INFO   ] [GL          ] Backend used <glew>
+[INFO   ] [GL          ] OpenGL version <b'4.6.0 NVIDIA 616.92'>
+[INFO   ] [GL          ] OpenGL vendor <b'NVIDIA Corporation'>
+[INFO   ] [GL          ] OpenGL renderer <b'NVIDIA GeForce RTX 4070 SUPER/PCIe/SSE2'>
+[INFO   ] [GL          ] OpenGL parsed version: 4, 6
+[INFO   ] [GL          ] Shading version <b'4.60 NVIDIA'>
+[INFO   ] [GL          ] Texture max size <32768>
+[INFO   ] [GL          ] Texture max units <32>
+[INFO   ] [Window      ] auto add sdl2 input provider
+[INFO   ] [Window      ] virtual keyboard not allowed, single mode, not docked
+[INFO   ] [Text        ] Provider: sdl2
+[INFO   ] [Clipboard   ] Provider: winctypes
+[WARNING] Both Window.minimum_width and Window.minimum_height must be bigger than 0 for the size restriction to take effect.
+[INFO   ] [GL          ] NPOT texture support is available
+[INFO   ] [Base        ] Start application main loop
+[DEBUG  ] Importing BlpImagePlugin
+[DEBUG  ] Importing BmpImagePlugin
+[DEBUG  ] Importing BufrStubImagePlugin
+[DEBUG  ] Importing CurImagePlugin
+[DEBUG  ] Importing DcxImagePlugin
+[DEBUG  ] Importing DdsImagePlugin
+[DEBUG  ] Importing EpsImagePlugin
+[DEBUG  ] Importing FitsImagePlugin
+[DEBUG  ] Importing FliImagePlugin
+[DEBUG  ] Importing FpxImagePlugin
+[DEBUG  ] [Image       ] failed to import FpxImagePlugin: No module named 'olefile'
+[DEBUG  ] Importing FtexImagePlugin
+[DEBUG  ] Importing GbrImagePlugin
+[DEBUG  ] Importing GifImagePlugin
+[DEBUG  ] Importing GribStubImagePlugin
+[DEBUG  ] Importing Hdf5StubImagePlugin
+[DEBUG  ] Importing IcnsImagePlugin
+[DEBUG  ] Importing IcoImagePlugin
+[DEBUG  ] Importing ImImagePlugin
+[DEBUG  ] Importing ImtImagePlugin
+[DEBUG  ] Importing IptcImagePlugin
+[DEBUG  ] Importing JpegImagePlugin
+[DEBUG  ] Importing Jpeg2KImagePlugin
+[DEBUG  ] Importing McIdasImagePlugin
+[DEBUG  ] Importing MicImagePlugin
+[DEBUG  ] [Image       ] failed to import MicImagePlugin: No module named 'olefile'
+[DEBUG  ] Importing MpegImagePlugin
+[DEBUG  ] Importing MpoImagePlugin
+[DEBUG  ] Importing MspImagePlugin
+[DEBUG  ] Importing PalmImagePlugin
+[DEBUG  ] Importing PcdImagePlugin
+[DEBUG  ] Importing PcxImagePlugin
+[DEBUG  ] Importing PdfImagePlugin
+[DEBUG  ] Importing PixarImagePlugin
+[DEBUG  ] Importing PngImagePlugin
+[DEBUG  ] Importing PpmImagePlugin
+[DEBUG  ] Importing PsdImagePlugin
+[DEBUG  ] Importing QoiImagePlugin
+[DEBUG  ] Importing SgiImagePlugin
+[DEBUG  ] Importing SpiderImagePlugin
+[DEBUG  ] Importing SunImagePlugin
+[DEBUG  ] Importing TgaImagePlugin
+[DEBUG  ] Importing TiffImagePlugin
+[DEBUG  ] Importing WebPImagePlugin
+[DEBUG  ] Importing WmfImagePlugin
+[DEBUG  ] Importing XbmImagePlugin
+[DEBUG  ] Importing XpmImagePlugin
+[DEBUG  ] Importing XVThumbImagePlugin
+[INFO   ] [Base        ] Leaving application in progress...
+Split UI passed: everyone, selected, custom validation, traveler totals, roster review, removal, narrow layout.
